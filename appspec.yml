@@ -2,5 +2,5 @@ version: 0.0
 os: windows
 files:
   - source: web
-    destination: C:/inetpub/wwwroot/test
+    destination: C:/inetpub/wwwroot
 file_exists_behavior: OVERWRITE
