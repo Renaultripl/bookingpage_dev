@@ -3,4 +3,4 @@ os: windows
 files:
   - source: web
     destination: C:/inetpub/wwwroot/test
-    overwrite: true
+    file_exists_behavior: OVERWRITE
