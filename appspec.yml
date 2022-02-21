@@ -1,6 +1,6 @@
 version: 0.0
 os: windows
 files:
-  - source: web
+  - source:.\bookingpage_dev
     destination: C:/inetpub/wwwroot
 file_exists_behavior: OVERWRITE
